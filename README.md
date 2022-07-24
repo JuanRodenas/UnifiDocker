@@ -1,7 +1,7 @@
 [![unifi](https://badgen.net/badge/UniFi/6.5.55?list=|&icon=https://docs.golift.io/svg/ubiquiti_color.svg&color=0099ee "UniFi Products Supported")](https://www.ui.com/download/unifi/)
 
 <p align="center">
-  <img src="https://github.com/AzagraMac/UnifiDocker/blob/main/unifi-banner.png"
+  <img src="https://github.com/JuanRodenas/UnifiDocker/blob/main/unifi-banner.png"
        width="700"/>
 </p>
 
@@ -84,5 +84,5 @@ Access to URL `https://IP_HOST:8443`
 
 #### Configure it normally. 
 <p align="center">
-  <img src="https://github.com/AzagraMac/UnifiDocker/blob/main/cap01.png" />
+  <img src="https://github.com/JuanRodenas/UnifiDocker/blob/main/cap01.png" />
 </p>
