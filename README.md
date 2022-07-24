@@ -14,7 +14,7 @@
 - Service docker running
 
 ### Install 
-`git clone https://github.com/AzagraMac/UnifiDocker.git`
+`git clone https://github.com/JuanRodenas/UnifiDocker.git`
 
 ### Deploy
 ```
